@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Nyumba Manager - Property Management System",
   description: "A comprehensive property management system for Kenyan property managers",
-    generator: 'v0.dev'
+    generator: ''
 }
 
 export default function RootLayout({
